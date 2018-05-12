@@ -1,0 +1,32 @@
+_repo: Os-Simples_17534
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Junqueiro, Abílio Manuel Guerra
+    aliases:
+    - Junqueiro, Abilio Manuel Guerra
+    - Junqueiro, Guerra
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '6701'
+    url: http://www.gutenberg.org/2009/agents/6701
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Guerra_Junqueiro
+    - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
+description: ''
+gutenberg_issued: '2006-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17534'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: Os Simples
+url: http://www.gutenberg.org/ebooks/17534
