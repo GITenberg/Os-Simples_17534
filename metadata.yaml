@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Guerra_Junqueiro
     - http://pt.wikipedia.org/wiki/Guerra_Junqueiro
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17534#Os-Simples
 gutenberg_issued: '2006-01-16'
 gutenberg_type: Text
 identifiers:
